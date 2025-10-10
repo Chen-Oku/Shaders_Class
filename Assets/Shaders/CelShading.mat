@@ -55,12 +55,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AmbientIntensity: 0.938
+    - _AmbientIntensity: 1
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RimLightPower: 10
+    - _RimLightPower: 7.47
     m_Colors:
-    - _LightCelShaded: {r: 0.42641503, g: 0.42641503, b: 0.42641503, a: 0}
+    - _LightCelShaded: {r: 1, g: 1, b: 1, a: 0.87058824}
     - _RimLightColor: {r: 1.1551507, g: 2, b: 0, a: 0}
     - _Tint: {r: 0.51638216, g: 1, b: 0.4901961, a: 0}
   m_BuildTextureStacks: []
